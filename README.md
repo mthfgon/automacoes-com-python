@@ -1,6 +1,5 @@
-# Bots Python
-## Projetos de bots utilizando python e frameworks de automação.
-### Tecnologias utilizadas
+# Primeiro Bot - Web Scraping registro.com.br 
+## Tecnologias utilizadas
 
 - Python
 - Selenium 
