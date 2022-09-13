@@ -1,4 +1,4 @@
-# Primeiro Bot - Web Scraping registro.com.br 
+# Bot - Web Scraping registro.com.br 
 ## Tecnologias utilizadas
 
 - Python
