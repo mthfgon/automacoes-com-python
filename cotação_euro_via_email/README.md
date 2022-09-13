@@ -3,7 +3,7 @@
 ## Tecnologias utilizadas:
 
 - Python 
-- API - [Awesome API](https://docs.awesomeapi.com.br/api-de-moedas)
+- API - <a href="https://docs.awesomeapi.com.br/api-de-moedas" target="_blank">Awesome API</a>
 - Libraries/Modules- Requests, smtplib, email.message
 
 ### Passo a Passo
