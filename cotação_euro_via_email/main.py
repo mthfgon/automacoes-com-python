@@ -17,9 +17,9 @@ def enviar_email(cotacao_atualizada):
 
     msg = email.message.Message()
     msg['Subject'] = "O preço do Euro caiu!"
-    msg['From'] = 'mthenrique1366@gmail.com'
-    msg['To'] = 'mthenrique1366@gmail.com'
-    password = 'khoggazdwflheqyt'
+    msg['From'] = 'SEU E-MAIL'
+    msg['To'] = 'E-MAIL RECEPTOR'
+    password = 'KEY GERADA PELO GMAIL'
     msg.add_header('Content-Type', 'text/html')
     msg.set_payload(corpo_email)
 
